@@ -24,13 +24,12 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-@misc{jamali2024learn,
-      title={How to Learn More? Exploring Kolmogorov-Arnold Networks for Hyperspectral Image Classification}, 
-      author={Ali Jamali and Swalpa Kumar Roy and Danfeng Hong and Bing Lu and Pedram Ghamisi},
-      year={2024},
-      eprint={2406.15719},
-      archivePrefix={arXiv},
-}
+        @misc{jamali2024learn,
+                title={How to Learn More? Exploring Kolmogorov-Arnold Networks for Hyperspectral Image Classification},
+                author={Ali Jamali and Swalpa Kumar Roy and Danfeng Hong and Bing Lu and Pedram Ghamisi},
+                year={2024},
+                eprint={2406.15719},
+                archivePrefix={arXiv}}
 
   
 Acknowledgement
