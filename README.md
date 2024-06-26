@@ -40,5 +40,5 @@ The 3D KAN is implementated from [3DKAN](https://github.com/FirasBDarwish/ConvKA
 
 ## License
 
-Copyright (c) 2023 Ali Jamali. Released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2024 Ali Jamali. Released under the MIT License. See [LICENSE](LICENSE) for details.
 
