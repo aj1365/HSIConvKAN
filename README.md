@@ -15,7 +15,8 @@
 
 ___________
 
-This PyTorch code is for the paper Jamali, A.; Roy, S.K.; Hong, D.; Lu, B.; Ghamisi, P. "[How to Learn More? Exploring Kolmogorov-Arnold Networks for Hyperspectral Image Classification],". Remote Sens. 2024, 16, 4015. https://doi.org/10.3390/rs16214015.
+This PyTorch code is for the paper:
+Jamali, A.; Roy, S.K.; Hong, D.; Lu, B.; Ghamisi, P. "[How to Learn More? Exploring Kolmogorov-Arnold Networks for Hyperspectral Image Classification],". Remote Sens. 2024, 16, 4015. https://doi.org/10.3390/rs16214015.
 
 
 
